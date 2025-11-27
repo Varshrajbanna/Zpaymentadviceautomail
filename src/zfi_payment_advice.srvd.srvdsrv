@@ -1,0 +1,4 @@
+@EndUserText.label: 'Payment Advice'
+define service ZFI_PAYMENT_ADVICE {
+  expose ZFI_PAYMENT_ADVICE_MAIL;
+}

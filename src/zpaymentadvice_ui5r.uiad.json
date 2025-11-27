@@ -1,0 +1,35 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "Payment Advice",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "Payment Advice"
+  },
+  "ui5AppDetails": {
+    "appId": "zpayadvice"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_83FD380AFCCA3E909C91753A28E0E3A6D3CDA3EF_TM",
+    "semanticObject": "ZPAYMENTADVICE",
+    "action": "ZPAYMENTADVICE",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_83FD380AFCCA3E909C91753A28E0E3A6D3CDA3EF_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Payment Advice",
+        "subtitle": "FI"
+      }
+    }
+  ]
+}

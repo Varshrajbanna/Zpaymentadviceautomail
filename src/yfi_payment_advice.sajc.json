@@ -1,0 +1,25 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "TEMPLATE FOR PAYMENT ADVICE",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "className": "Y_PAYMENT_ADV_JOB_SCHEDULING"
+  },
+  "parameters": [
+    {
+      "name": "S_ID"
+    },
+    {
+      "name": "P_DESCR"
+    },
+    {
+      "name": "P_COUNT"
+    },
+    {
+      "name": "P_SIMUL"
+    }
+  ]
+}
